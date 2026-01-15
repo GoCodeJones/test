@@ -17,7 +17,7 @@ Normally, these XML files are used during Windows installation. This tool lets y
 - **UI customization** - Taskbar position, hidden icons, default apps
 - **Universal parser** - Works with ANY XML from Unattend Generator
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ Removing 28 AppX packages...
  SETTINGS APPLIED SUCCESSFULLY!
 ```
 
-## 📋 What Gets Applied
+## What Gets Applied
 
 The tool dynamically extracts and applies configurations from your XML:
 
