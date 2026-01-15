@@ -1,0 +1,11 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - xml.etree.ElementTree
+# - subprocess
+# - winreg
+# - os
+# - sys
+# - tempfile
+# - re
+# - pathlib
+# - urllib.parse
